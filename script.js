@@ -6,14 +6,24 @@ var timer = 75;
 
 var questions = [
     {
-        question: "What is HTML?",
-        choices: ['hyper run language', 'hyper text language', 'all of the above', 'none of the above'],
-        answer: 'hyper text language'
+        question: "Commonly used data types Do Not include?",
+        choices: ['strings', 'booleans', 'alerts', 'numbers'],
+        answer: 'alerts'
     },
     {
-        question: "What is JavaScript?",
-        choices: ['Programming Language', 'Mark down language', 'all of the above', 'none of the above'],
-        answer: 'hyper text language'
+        question: "The condition in an if / else statment is enclosed with _______.?",
+        choices: ['quotes', 'curly brackets', 'parenthesis', 'square brackets'],
+        answer: 'parennthesis'
+    },
+    {
+        question: "Arrays in JavaScript can be used to store _______.?",
+        choices: ['numbers and strings', 'other arrays', 'booleans', 'all of the above'],
+        answer: 'all of the above'
+    },
+    {
+        question: "A very useful tool used during development and debugging for printing content to the debugger is:",
+        choices: ['JavaScript', 'terminal/bash', 'for loops', 'console.log'],
+        answer: 'console.log'
     },
 ]
 
