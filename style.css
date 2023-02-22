@@ -1,0 +1,25 @@
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.questions {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn {
+    color: #fff;
+    background: green;
+}
+
+.choice-btn {
+    width: 40%;
+    margin: 3px;
+}
+
